@@ -1,0 +1,1827 @@
+Code,Type
+te,other
+moped bike,motorcycle
+cargo van,truck/bus
+nyc d,other
+ford ambul,car/suv
+c 1,other
+e-bik,ebike
+parke,other
+vehic,Other
+cat caterp,other
+ridgeline,other
+d/v wb,other
+dumpster t,other
+pas (4dr s,Other
+amubulance,other
+van/t,truck/bus
+track,other
+cemen,other
+john,other
+dot tow tr,other
+mta bus  4,truck/bus
+box mail t,other
+rmp v,other
+van w,motorcycle
+uber,car/suv
+dolly,other
+campe,other
+cat32,other
+electric b,ebike
+tracktor t,ATV
+fled,other
+ems truck,truck/bus
+aerial lif,other
+tow-t,other
+johnd,other
+comm trk,other
+trailor,trailer
+fltrl,other
+power shov,other
+kme/f,other
+p psd,Other
+hotdo,other
+na,other
+burg,other
+ambukance,other
+ems bus,truck/bus
+refg/,other
+const equi,other
+ice cream,other
+aport,other
+gr hs,other
+semi-,Other
+motor dirt,motorcycle
+utility,Other
+sanitaton,other
+fuel,car/suv
+transit va,truck/bus
+sd,other
+mopped,other
+bkhoe,other
+m21,motorcycle
+scom,other
+trial,motorcycle
+moving van,truck/bus
+bus y,truck/bus
+wanc,other
+52? t,other
+firet truc,other
+tlc v,other
+cat,other
+pois,other
+a-one,other
+72000,other
+coll,other
+u.s p,Other
+ford-tcn,car/suv
+usps # 487,other
+fedex van,truck/bus
+attac,other
+rv/van,car/suv
+delv.,other
+usp m,other
+vespa,motorcycle
+util,other
+fire appar,other
+unk/l,other
+metrotech,Other
+skid loade,truck/bus
+semi trail,truck/bus
+lcom,other
+tk,other
+unknw,other
+e-ska,ebike
+e- scooter,escooter
+crwzk,other
+jetski,motorcycle
+self insur,Other
+tt,other
+carriage,other
+omc,motorcycle
+excabator,other
+electricun,ebike
+postal tru,other
+jlg l,other
+oms,other
+sp purpose,other
+yale,other
+fork-,other
+couri,other
+ez go,ATV
+catip,other
+nyc acs va,other
+gov't,other
+dot v,other
+objec,other
+ladder,other
+ford van,car/suv
+ladder tru,other
+subn/,Other
+electrict,other
+ford f-150,truck/bus
+omm,other
+9999,other
+progressiv,Other
+offic,other
+ram comm.,Other
+pch,other
+us ma,other
+ambulcance,other
+qmz,other
+bs,other
+arcimoto,ebike
+e revel sc,escooter
+e350,car/suv
+mcr,motorcycle
+us postal,other
+sanit,other
+jlg m,other
+btm,other
+motor skat,motorcycle
+e-sooter,escooter
+lawn mower,other
+llv mail t,other
+razor scoo,escooter
+palfinger,other
+ec2,other
+m/a,other
+d2,other
+home made,other
+wagon,other
+uni e-bike,e-bike
+uspst,other
+penske box,other
+priva,other
+ford picku,car/suv
+backhoe re,other
+4 dr sedan,car/suv
+us goverme,other
+garab,other
+usps #6530,other
+dot safety,Other
+sbn,other
+trac.,Other
+pas v,Other
+600aj,other
+crane boom,other
+large com veh(6 or more tires),truck/bus
+nyc m,motorcycle
+2 hor,other
+log,other
+van box tr,truck/bus
+000,other
+hurse,other
+e bik,ebike
+citywide,other
+boxtr,other
+gas bike,motorcycle
+ambulence,other
+amb,motorcycle
+4dsd,other
+util.,Other
+emrgn,motorcycle
+ic,other
+mini,other
+dirt,other
+mini vahn,motorcycle
+b5-44,other
+city,other
+white van,truck/bus
+elect,other
+left the s,other
+tractor,"tractor
+Other"
+van t,motorcycle
+ken,other
+movin,ebike
+back hoe,other
+stake truc,other
+perm,motorcycle
+mini bus,truck/bus
+hwy c,truck/bus
+pavin,other
+psr,other
+sanat,other
+fed ex tru,other
+vs2,other
+cmix,other
+ambulette,other
+dunba,other
+blue,other
+passenger,truck/bus
+sprinter w,motorcycle
+department,other
+lmtv,other
+epo,ebike
+box van,truck/bus
+scotter,escooter
+revel mo'e,other
+van c,motorcycle
+free,other
+pickup w/t,truck/bus
+trac,motorcycle
+snow plowe,truck/bus
+open body,Other
+firet,other
+bay crane,other
+left,other
+minibike,motorcycle
+nypd signa,other
+sanitation,Other
+frht trail,ebike
+armor,other
+p/u,car/suv
+cadet,other
+paylo,other
+delivery,truck/bus
+"red,",other
+ford super,car/suv
+delv br,motorcycle
+golf car,ATV
+lit direct,other
+citibike,ebike
+16m,other
+boom 60ft,truck/bus
+ups truck,truck/bus
+boom,other
+vendor cha,other
+amabu,other
+nyc f,ebike
+road sweep,other
+17,other
+toolcat fo,other
+jj150t-4a,other
+foot,other
+hrse,other
+us go,other
+laund,other
+forkl,other
+com/a,other
+unk,other
+truc,other
+fdny emt,other
+one wheel,ebike
+nypd van,other
+gas mo-ped,escooter
+van/truck,truck/bus
+tcr,motorcycle
+nyc truck,truck/bus
+u hau,other
+fdny firet,other
+fdny,other
+comme,other
+slingshot,other
+slingshoot,other
+postoffice,other
+fdny vehic,other
+amazon tru,other
+uknown,other
+s/sp,Other
+cargo truc,truck/bus
+wheelchair,other
+flatbed pi,Other
+deliv,other
+util wh,other
+cabin,other
+mercedes,car/suv
+small com veh(4 tires) ,car/suv
+inter,other
+snow plow,truck/bus
+pk,other
+electric s,ebike
+fed ex van,truck/bus
+limo/,car/suv
+pkup,car/suv
+escooter,escooter
+freight va,truck/bus
+emt,other
+conv,motorcycle
+wc,other
+uk,other
+pick rd,other
+mi/fu,ebike
+snow,other
+18 wh,other
+toyot,car/suv
+mta v,motorcycle
+trailer/tr,truck/bus
+wesco,other
+postal bus,truck/bus
+fdny ferra,other
+passe,other
+beyond sco,ebike
+truck van,truck/bus
+mta c,motorcycle
+st,other
+tktr,other
+bob cat,other
+skidsteerl,other
+dumptruck,truck/bus
+nyc transi,other
+sprinter v,motorcycle
+box car,truck/bus
+tr/c,"tr/c falls into the ""motorcycle"" bucket."
+hopper,other
+00000,other
+boom moped,motorcycle
+postal van,truck/bus
+back,Please provide the word you would like me to categorize.
+intl,other
+yw,other
+oml/,other
+mo pa,motorcycle
+x com,ebike
+ttrailer,trailer
+hino,motorcycle
+x,Please provide the word x for categorization.
+other,other
+flatbed,Other
+3dc-,other
+lift,other
+omnibus,truck/bus
+ud,other
+tow-truck,truck/bus
+uhual,motorcycle
+nynj rail,other
+dumpt,other
+dot truck,truck/bus
+truck w/tr,truck/bus
+well driller,other
+toyota,car/suv
+catapillar,other
+flat rack,Other
+jlg ultra,ebike
+unknown,other
+usps truck,truck/bus
+ford sprin,car/suv
+pickup tow,truck/bus
+dent and s,Other
+comm vehic,truck/bus
+motorized home,motorcycle
+bobcat,other
+small trac,other
+omnib,other
+leased amb,other
+junst,other
+mailtruck,truck/bus
+street swe,other
+g pas,other
+unmarked v,Other
+spinter va,other
+highl,other
+acces,other
+historical,other
+uhaul box,other
+g com,motorcycle
+mac f,motorcycle
+tank truck,truck/bus
+workcart,other
+postal car,truck/bus
+chvey,motorcycle
+e skateboa,ebike
+nonmotords,other
+dig-i,ebike
+fdny super,Other
+trlpm,other
+anbul,other
+small bus,truck/bus
+moped,motorcycle
+tilla,other
+u haul mov,truck/bus
+ford ec2,car/suv
+kp160,other
+fire bus,truck/bus
+dsny,other
+freig,Other
+food,other
+18 wheeler,truck/bus
+ems/van,ebike
+scoot,escooter
+4whee,ATV
+subn/ambul,other
+frieg,other
+bicycle,bicycle
+fed ex,other
+sm yw,other
+bobcat 216,other
+red t,other
+van/b,motorcycle
+2003,other
+?omme,other
+u-haul min,truck/bus
+mtr s,motorcycle
+power,other
+deagr,other
+subur,other
+workh util,other
+us govt ve,other
+unkn,other
+lsv,other
+collection,"ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other."
+llv,other
+flat,other
+emt truck,truck/bus
+prks,other
+scomm,motorcycle
+workh,other
+truck cran,truck/bus
+dlr,other
+yy,other
+nyc-s,ebike
+van s,truck/bus
+utility va,other
+budge,other
+mo-pe,motorcycle
+yello,other
+seagr,other
+conti,motorcycle
+utyli,other
+veh l,other
+comm,other
+parce,other
+blu bus,truck/bus
+scooc,other
+man b,other
+ap,other
+trolley ri,other
+shuttle bu,other
+lp,other
+kw tr,ebike
+sc,escooter
+pickup with mounted camper,car/suv
+sem,Other
+tuck,other
+pedic,other
+dei v,other
+flat/,other
+firetruck,truck/bus
+van (trans,truck/bus
+nj transit,truck/bus
+toolcat,other
+olm,other
+moter,motorcycle
+c45 boc tr,ebike
+pump,other
+passenger vehicle,car/suv
+city owned,other
+motored sc,motorcycle
+mac 1,motorcycle
+ne/fl,other
+wheel barr,Other
+cat payloa,other
+chevy van,car/suv
+e bike,ebike
+geico,car/suv
+u-hau,other
+mopet,ebike
+for van,truck/bus
+fd pickup,truck/bus
+skid,car/suv
+ambulance,truck/bus
+yw po,ebike
+nd,other
+utv,UTV
+art m,other
+acur,other
+2 doo,other
+electric c,ebike
+stree,other
+esu rep,escooter
+veriz,other
+fre t,other
+cat p,other
+icecr,other
+unkowm,other
+mo ped,motorcycle
+fdny- fire,other
+,
+vab,other
+2dr,car/suv
+pallet,other
+ups van,truck/bus
+es,escooter
+livery vehicle,car/suv
+nypd tow t,other
+golfcart,ATV
+amazon spr,other
+fdny mecha,other
+maintenanc,other
+siting mop,other
+saltspread,other
+metro tran,truck/bus
+bulk agriculture,truck/bus
+mta u,motorcycle
+unknown ve,other
+787,other
+comer,other
+a,other
+nycfiredep,other
+e one,ebike
+farm vehicle,truck/bus
+va,motorcycle
+plow,other
+minicycle,motorcycle
+car traile,car/suv
+access-a-r,other
+stak,other
+back ho,other
+quality tr,other
+uliti,other
+ambulane,ebike
+box m,other
+nat grid t,other
+car,car/suv
+oth,other
+luv,other
+c-1,other
+ebike,ebike
+dart bike,ebike
+swepe,other
+short scho,other
+mecha,other
+st150,ebike
+mtabus,other
+cate,other
+e bike w p,ebike
+nt tr,other
+box p,other
+sen,motorcycle
+engine sp0,motorcycle
+me/be,other
+sedan,car/suv
+boat,other
+pick-up,car/suv
+shove,other
+house on w,other
+(ceme,Other
+trailer fl,other
+harve,other
+axo,other
+uni,other
+elec.,Other
+l1,other
+fire turck,other
+bobct,other
+ems a,ebike
+7,other
+tkp,other
+almbulance,other
+polic,motorcycle
+nyfd,other
+fedex,other
+con e,motorcycle
+t650,other
+12 passeng,other
+e.m.s,ebike
+commu,other
+posto,other
+bus (omnib,truck/bus
+pick up,car/suv
+''lime mope,other
+station wa,other
+u haul tra,truck/bus
+scaff,other
+ram promas,other
+state,other
+t630 forkl,other
+dirt bike,motorcycle
+commm,other
+h1,other
+freight li,truck/bus
+convertible,car/suv
+mta bus 40,truck/bus
+roads,car/suv
+ny city mt,other
+u haul tru,truck/bus
+motorizeds,motorcycle
+escavater,other
+tugge,other
+bus m,truck/bus
+fdny fire,other
+abulance,motorcycle
+towtruck,truck/bus
+nyc g,ebike
+dhl t,truck/bus
+fd engine,car/suv
+dilevery t,other
+tlr,other
+994,other
+crane truc,other
+2 dr sedan,car/suv
+backhoe lo,other
+mobile,other
+escoo,escooter
+tanke,truck/bus
+rescu,other
+997,other
+silve,other
+conve,motorcycle
+pedal bike,bicycle
+pas,other
+hi-lo,other
+mta van,motorcycle
+frt,other
+razor150 m,other
+contructio,other
+heavy,truck/bus
+ems h,ebike
+derelict v,Other
+none,other
+unkwn,other
+house,other
+speci,other
+dot equipm,other
+peter,other
+enclosed body - nonremovable enclosure,Other
+mvp,other
+srf,other
+tram,truck/bus
+sport utility / station wagon,car/suv
+hi lo,other
+sprin,other
+bus,truck/bus
+food truck,truck/bus
+government,other
+sweeper,other
+f15,motorcycle
+ladde,other
+hyster for,other
+jlg b,other
+rgs,other
+man l,Other
+1,other
+trali,other
+11-va,other
+oil t,car/suv
+liebh,other
+d1,other
+"trlr plt,",other
+distributo,other
+industrial,other
+coach,other
+box h,other
+van a,ebike
+gth-1056,other
+freight,truck/bus
+d3,other
+foor,other
+ec3,other
+porta,other
+buss,truck/bus
+spec,other
+freight tr,truck/bus
+e-350,car/suv
+rear end,car/suv
+delivery w,truck/bus
+garbage,other
+message si,other
+g omr,motorcycle
+caravan,other
+delivery v,truck/bus
+nyc a,other
+gov vehicl,truck/bus
+hd to,other
+x trailer,trailer
+nyc b,ebike
+self-,Other
+ecom,ebike
+tlc,Other
+subn,other
+sudn,other
+refr,other
+gas mo ped,Other
+work truck,truck/bus
+bsd,other
+johndeere,other
+pedestrian,other
+workm,other
+omt,other
+isuzu,truck/bus
+lunch wagon,other
+f550,motorcycle
+conedison,other
+cargo,truck/bus
+refq,other
+com delive,other
+99999,other
+food deliv,truck/bus
+work van,truck/bus
+freightlin,truck/bus
+pz,other
+private,Other
+spark150 s,ebike
+mini van,car/suv
+sweep,other
+high,motorcycle
+speac,other
+fdny ambul,other
+e- bi,ebike
+dl,other
+carrier,other
+mcy,motorcycle
+depar,other
+waste,other
+rv,truck/bus
+skateboard,other
+scooter bi,ebike
+ns am,other
+mp,motorcycle
+tow trk,truck/bus
+comb,other
+white dodg,other
+fusion,Other
+utility.,Other
+picku,other
+e motorcyc,motorcycle
+greeb,other
+b55 excava,other
+4door,car/suv
+crane,other
+econoline,car/suv
+moped/scoo,motorcycle
+constructi,other
+uhal renta,Other
+posta,other
+street cle,other
+tree cutte,other
+2ton,truck/bus
+trailer no,trailer no - other
+ele motorc,motorcycle
+suburban,other
+fdny sp200,other
+f,other
+red,other
+van f,motorcycle
+jcb40,other
+limou,other
+e250,ebike
+pass van,motorcycle
+black mope,other
+dlev,other
+payloader,truck/bus
+dema-,Other
+folk lift,other
+no/bu,other
+pedicab,bicycle
+mot s,other
+firtruck,truck/bus
+semitraile,truck/bus
+commerical,Other
+amulance,other
+passanger,truck/bus
+ip,other
+escavator,other
+refrg,other
+mta truck,truck/bus
+delie,other
+chevy carg,car/suv
+gen  ambul,motorcycle
+drill rig,other
+priv ambul,other
+cat 3,other
+yale fork,other
+engin,Other
+mopd,other
+mobile foo,other
+roadroller,other
+deiv,other
+cat 4,other
+scooter/mo,escooter
+rv/tr,truck/bus
+rv motorho,motorcycle
+38ab-,other
+ems t,ebike
+usps post,other
+straight t,other
+milli,other
+postal veh,other
+utility ve,Other
+motor,motorcycle
+pass-,ebike
+econo,other
+amazon van,other
+dep v,other
+usps vehic,truck/bus
+renta,other
+bed t,other
+grain,other
+tour bus,truck/bus
+p/sh yw,ebike
+whit,other
+winne,other
+12 fe,other
+ele. unicy,ebike
+gas moped,motorcycle
+aeria,other
+ambulance`,car/suv
+ambalance,other
+motor scoo,motorcycle
+c0mme,other
+plow  truc,truck/bus
+elec,other
+van/r,motorcycle
+ringo,other
+uhal,other
+e amb,ebike
+engine,motorcycle
+ynk,other
+con ed tru,other
+city vehic,other
+fedx,other
+suv /,car/suv
+combinatio,Other
+engi,other
+trailer,trailer
+"a,n",other
+4 axe,other
+unlno,other
+unk l,other
+camper van,car/suv
+ambiance,other
+250-3,other
+nycta,other
+promaster,Other
+e - b,ebike
+u haul,truck/bus
+vpg,other
+fire,other
+concrete m,other
+unkown,other
+stake,other
+busv,truck/bus
+p/se,motorcycle
+fdny ambu,other
+fdny ladde,other
+cm,Other
+ladd,other
+bobcat/for,other
+dirtbike,motorcycle
+cherry pic,other
+35 ft,other
+wheel load,truck/bus
+truck flat,truck/bus
+trl,other
+train,other
+nypd esu t,other
+telehandle,other
+alumi,other
+013,other
+ford f150,truck/bus
+chevy,car/suv
+cat escaba,other
+comm van,truck/bus
+van truck,truck/bus
+subn-,Other
+pick wh,other
+mower,other
+utv bobcat,ATV
+t/ cr,car/suv
+bucketload,other
+towe,other
+gator 4x4,car/suv
+van u,motorcycle
+power ladd,other
+mtr h,motorcycle
+police van,car/suv
+orion,other
+nys a,other
+spec-,Other
+bucke,other
+flat bed,truck/bus
+aspha,other
+usps mail,other
+van/transi,motorcycle
+box t,other
+gmc v,truck/bus
+light,other
+ups t,other
+trcic,ebike
+refriger t,other
+50 cc moto,motorcycle
+marked van,truck/bus
+tow r,other
+pickup sl,truck/bus
+psp,other
+c,other
+van ford,car/suv
+black,other
+omni,Other
+fdny utili,other
+p/sh,motorcycle
+verzion va,other
+wstr,other
+moto-scoot,motorcycle
+gmc ecom,car/suv
+wag,other
+cart,other
+sprinter,other
+swingloade,other
+g  co,ebike
+cat.,other
+c2,other
+bed,other
+c40,other
+dump truck,truck/bus
+u.s. posta,other
+chevrolet,car/suv
+astro,other
+semi-truck,truck/bus
+comix,other
+mta bus,truck/bus
+com v,motorcycle
+bulldozer,truck/bus
+bobca,other
+skid-,car/suv
+piggy back,Other
+amula,other
+ambu,other
+lawnmower,other
+pick-up truck,truck/bus
+eletr,other
+e- motor b,ebike
+fire rig t,truck/bus
+com t,other
+mta transi,motorcycle
+2 wheel sc,ebike
+nyc,other
+.,other
+glben,other
+sub,other
+nycha,other
+snowmobile,ATV
+ambul,other
+1c,other
+transport,truck/bus
+motorhome,motorhome - other
+u-haul tru,truck/bus
+multi-wheeled vehicle,Other
+esu t,escooter
+unkl,other
+nyc fdny #,other
+tank,other
+vn,other
+bobcat sno,other
+van h,truck/bus
+freight fl,truck/bus
+trlr,truck/bus
+trialer,motorcycle
+trailee,ebike
+delv wh,other
+"usps truc,",other
+fllet,other
+t880,other
+fd fi,other
+11111,other
+food cart,other
+4 wheeler,ATV
+bmw,car/suv
+scoo,escooter
+emi- trail,ebike
+firer,other
+g1,other
+cmixer,other
+seagrave t,other
+n/a,other
+pick-,"pick- is in the ""other"" bucket."
+nyc sanita,other
+ecoli,other
+ambluance,other
+e-sco,escooter
+e/bik,ebike
+sierra,other
+glp050vxev,other
+itas,other
+cab,other
+dept van #,other
+access a r,car/suv
+fed,other
+ford ff,car/suv
+revel scoo,escooter
+fdny ems,other
+ct,other
+hilow,other
+dot vehicl,Other
+26 ft,other
+concrete mixer,truck/bus
+pick-up tr,truck/bus
+commerial,Other
+unicycle,other
+road,car/suv
+semi,Other
+cross,other
+e scooter,escooter
+3-whe,ebike
+ge/sc,ebike
+dsny sanit,ebike
+dumpe,other
+all-terrain vehicle,ATV
+sw,motorcycle
+pc,other
+escootersi,escooter
+g amb,motorcycle
+utility wh,other
+mini schoo,other
+utility tr,other
+vendor foo,other
+dsny garba,other
+usps self,other
+olc,other
+sybn,other
+ryder,motorcycle
+flatb,other
+d,other
+motorcycle,motorcycle
+trail,ebike
+subn whi,other
+2ydswheell,other
+e-unicycle,ebike
+ltrl,other
+kenwo,other
+mta b,motorcycle
+gray,other
+apurp,other
+uspcs truc,other
+towe truck,truck/bus
+e com,ebike
+us,other
+fleet,truck/bus
+compa,other
+whbl,other
+hook,other
+nyc ems,ebike
+dumps,other
+e skate bo,ebike
+gmc t,car/suv
+box,other
+fire depar,other
+box truck,truck/bus
+f350,truck/bus
+miniv,other
+unknow,other
+nttrl,other
+pick,ebike
+dump,other
+vam,other
+tow t,other
+govt,other
+east,other
+diese,other
+conta,other
+vend,other
+fdny bus,truck/bus
+work,other
+trim,motorcycle
+chev,other
+military,other
+boom lift/,other
+�mbu,other
+tractor truck diesel,truck/bus
+crf carria,Other
+dual,motorcycle
+flywing,other
+fedex box,other
+4dr,car/suv
+heavy truc,truck/bus
+2- to,Other
+utlit,other
+fire truvk,other
+rds,other
+budget tru,other
+dsny sweep,other
+nyc fd,other
+n?a,other
+quad,other
+amdu,other
+fd ambulan,other
+ambulace,other
+pick truck,truck/bus
+camper tra,Other
+amubl,other
+15 pa,other
+com,other
+navig,Other
+nv150,motorcycle
+100th truc,other
+tailg,car/suv
+sanmen cou,Other
+smyellscho,other
+sudan,other
+nyc fdny,other
+fork lift,other
+g   scl,other
+yellow cab,car/suv
+tc,other
+hoe-l,other
+bump,other
+carri,other
+school bus,truck/bus
+stack,ATV
+sciss,other
+2dcp,other
+front-load,other
+tractor tr,other
+e-mot,ebike
+nypd,other
+rd/s,Other
+club,other
+usps,other
+tank wh,other
+maxim,Other
+trash,other
+tr/tr,"tr/tr belongs to the ""motorcycle"" bucket."
+dodge ram,car/suv
+bull dozer,truck/bus
+fdny ems v,other
+mail truck,truck/bus
+us po,truck/bus
+scooter,escooter
+refuse tru,other
+g psd,Other
+comm.,other
+5,other
+pallet jac,other
+nyc ambula,other
+frht-spr,other
+coupe,car/suv
+chevr,other
+uspcs,other
+caterpilla,other
+nyc bus,truck/bus
+tl tr,other
+transit mt,ebike
+pumper tru,other
+inte truck,truck/bus
+palle,other
+broom,other
+nyc parks,other
+govt p/u t,other
+white ambu,other
+pay loader,truck/bus
+scl,other
+can,other
+hino tank,motorcycle
+platf,other
+grail,other
+light trai,other
+pass,other
+del t,other
+ld,other
+dumpster,other
+u.s.p,Other
+cargo trai,truck/bus
+special pu,other
+ariel,other
+detac,other
+ford two t,car/suv
+mc,motorcycle
+vehicle 2,truck/bus
+private am,Other
+truck comm,truck/bus
+mta nyc bu,truck/bus
+chassis cab,truck/bus
+city mta b,other
+e3,ebike
+unk.,other
+motor. sco,escooter
+comm truck,truck/bus
+fire truck,truck/bus
+uhaul,other
+i1,other
+e bike uni,ebike
+315 e,ebike
+del,motorcycle
+station wagon/sport utility vehicle,car/suv
+wg,other
+roro,other
+tow truck / wrecker,truck/bus
+vms,other
+ems,other
+gas scoote,escooter
+enclosed body - removable enclosure,Other
+smart car,car/suv
+ford econo,car/suv
+special co,other
+van e,motorcycle
+lsa,other
+rmb,other
+dump gr,other
+oil tanker,truck/bus
+vms t,other
+subr,other
+internatio,other
+transit,truck/bus
+churc,other
+backhoe,other
+esu rescue,escooter
+hwh,other
+horse draw,other
+gas bicycl,bicycle
+usps  van,truck/bus
+delviery,truck/bus
+sea,other
+white,other
+sanitaion,other
+co,other
+beverage truck,truck/bus
+nv ca,other
+frieghtlin,other
+refg,other
+12 pass va,other
+3 whe,ebike
+atv p,ATV
+dot #,other
+abmu,other
+rental van,car/suv
+farm,other
+cherv,other
+ny ems,other
+scooter ga,escooter
+suret,other
+bucket tru,other
+bulld,other
+freighntli,other
+unkow,other
+r/v,motorcycle
+red moped,motorcycle
+3 doo,other
+john deere,truck/bus
+bike,ebike
+truck trai,truck/bus
+gas powere,other
+usps mailt,other
+garba,other
+motorscooter,motorcycle
+kme,other
+elec. unic,other
+pepsi deli,other
+cement tru,other
+cont,motorcycle
+courier,motorcycle
+fd la,other
+t350hd,other
+courier va,ebike
+nycha fork,other
+push cart,other
+ford trans,car/suv
+embulance,other
+lift boom,other
+livery bus,truck/bus
+frht vehic,Other
+postal ser,other
+psd,other
+usps van,truck/bus
+usps small,other
+moped elec,ebike
+street,other
+golf cart,ATV
+mcy b,motorcycle
+commericia,Other
+m2,Other
+standing s,other
+sterl,other
+oml,other
+e sco,escooter
+mobility s,ebike
+flat  bed,other
+electric m,ebike
+sonata,other
+dot,other
+ford couri,car/suv
+scooter si,escooter
+eamb,other
+rgr,other
+g tow,ebike
+escovator,other
+towin,other
+basic psd,other
+glnen,other
+spr,other
+track exca,other
+dirt-,other
+salt,other
+razor,Other
+delvi,other
+ford,car/suv
+unknown ca,other
+00,other
+front,other
+truck,truck/bus
+app,other
+e-skateboa,ebike
+motorscoot,motorcycle
+dept,other
+komatsu lo,Other
+ref box tr,other
+mtriz,motorcycle
+shcoo,other
+flatbed fr,other
+autotrlr t,ebike
+haul for h,ebike
+scooter no,other
+freig delv,other
+manual sco,other
+excavator,other
+unkno,other
+yps,other
+usps/govt,other
+freih,other
+2 dr,ebike
+nyc dot,other
+delivery t,truck/bus
+e,ebike
+smart,Other
+enclo,other
+ltr,other
+genui,other
+scava,other
+2015,other
+qbe i,other
+rolle,motorcycle
+forklift,other
+fdny 331 k,other
+forlift,other
+lateral tr,Other
+city of ne,other
+grumm,other
+fdny picku,other
+uspos,other
+18 wheel,truck/bus
+4ds,other
+bread truc,other
+moving tru,other
+wh,other
+cat forkli,other
+u-haul,truck/bus
+taxi,car/suv
+2 whe,motorcycle
+yamah,motorcycle
+go kart,other
+van (,truck/bus
+ukn,other
+rented boo,ebike
+nyc fire d,other
+bob c,other
+gas t,other
+garbage or refuse,other
+waste truc,truck/bus
+detached t,other
+f45,motorcycle
+f650,motorcycle
+sedona,other
+electronic,other
+ladder co,other
+mop pad,other
+nyc firetr,other
+moped 150c,motorcycle
+8x20,other
+manpower s,Other
+tour,other
+430,other
+2 ton,truck/bus
+spc p,other
+a bulance,other
+ttailer,Other
+50cc mini,motorcycle
+expre,other
+schoo,other
+yll p,other
+mta t,motorcycle
+g scl,other
+lull,other
+c1,other
+ups,other
+c7c,other
+niu,motorcycle
+freight to,truck/bus
+ss,other
+18 weeler,motorcycle
+gover,motorcycle
+short bus,truck/bus
+minivan,car/suv
+pedi cab,ebike
+4d,other
+app c,other
+tow truck,truck/bus
+limousine,car/suv
+stand up s,other
+gas pwr sc,ebike
+garage,car/suv
+se,other
+utili,other
+fr`,other
+police veh,car/suv
+front end,Other
+white work,other
+hdc,other
+liabitiy,Other
+van,truck/bus
+lim,other
+car c,car/suv
+naa,other
+car t,car/suv
+trai,other
+12 passage,other
+mooper,other
+principle,other
+sgws,other
+limo,car/suv
+golf,other
+unk female,other
+concr,other
+skate boar,other
+train cart,other
+mta,motorcycle
+tow,truck/bus
+federal ex,other
+chevy expr,car/suv
+white box,Other
+abula,other
+am/tr,truck/bus
+r/v c,ebike
+vanet,other
+3-door,other
+plow truck,truck/bus
+mta esu ve,escooter
+trans,motorcycle
+locomotive,other
+dollar van,truck/bus
+rd bldng m,motorcycle
+h3,other
+flat-,other
+j1,other
+0,other
+oml/omnibu,other
+pumpe,ebike
+u-tru,other
+truck/bus,truck/bus
+50cc scoot,motorcycle
+passa,other
+gov v,other
+rolloff,other
+sw/van,car/suv
+hd,other
+985,other
+flatbed to,Other
+mopen,motorcycle
+spc,other
+del truck,truck/bus
+buldozer,truck/bus
+rolli,other
+govenment,other
+utilt,other
+omt/t,other
+5x8 t,other
+lawn,other
+tf,other
+utll,other
+truck ladd,truck/bus
+mail,other
+moped scoo,motorcycle
+excav,other
+tl trailer,other
+cherr,other
+gas s,other
+mta work t,motorcycle
+pumper,other
+f1,Other
+army,other
+short,other
+usps box t,other
+foglift,other
+repai,other
+fdny285 en,other
+fire engin,other
+vol,motorcycle
+delv,other
+e-scoter,escooter
+gokar,other
+commercial,Other
+cushm,other
+e pas,Other
+tra/r,motorcycle
+safet,other
+car/suv,car/suv
+gene,other
+fd tr,other
+military v,other
+g sem,motorcycle
+vang,other
+white ford,car/suv
+lumbe,other
+flywing mo,other
+wineb,other
+hand,other
+armored tr,truck/bus
+towma,other
+ulili,other
+bicyc,bicycle
+emt ambula,ebike
+hoverboard,escooter
+flat bed t,other
+big r,other
+pish,other
+cater,other
+vehicle tr,truck/bus
+progr,other
+impal,other
+contr,other
+comm food,other
+yamaha,motorcycle
+escooter s,escooter
+yellow tax,other
+bobcat for,other
+armored truck,truck/bus
+barri,other
+tcm,motorcycle
+mo pe,motorcycle
+dodge,car/suv
+golf kart,ATV
+frht,other
+orange jlg,other
+hi ta,other
+camper,other
+1s,other
+trailer tr,truck/bus
+us mail tr,other
+vms sign,other
+post offic,other
+rood,other
+pickup tru,truck/bus
+servi,other
+nycha van,other
+skywatch,other
+towtr,other
+backh,motorcycle
+chart,other
+liver,other
+moped gas,motorcycle
+push,other
+dp,Other
+tlc p,ebike
+4 run,other
+humme,other
+hearse,other
+tr-trailer,tr-trailer - truck/bus
+pickup,car/suv
+small,other
+ecoline va,ebike
+green,other
+vant,other
+revel,other
+lma,other
+bmw moped,motorcycle
+unk t,other
+carry all,other
+van camper,car/suv
+cont-,other
+cms-t,other
+nyc s,other
+m/c,motorcycle
+marke,motorcycle
+yw school,other
+"unk,",other
+reg,motorcycle
+oz mo,other
+not i,other
+glass rack,other
+segwa,other
+heil,other
+new flyer,other
+gov,other
+util truck,truck/bus
+motorized,motorcycle
+accee,other
+liber,other
+fd truck,truck/bus
+drone,other
+bobby,other
+mac,motorcycle
+scooter (g,escooter
+yellowpowe,other
+rz,other
+ice c,other
+boom lift,other
+pro master,motorcycle
+semi-trail,truck/bus
+tr/ki,"tr/ki falls into the ""motorcycle"" bucket."
+clean,other
+asphalt ro,other
+tr,other
+school van,truck/bus
+santa,other
+usps posta,other
+p/v,motorcycle
+nys ambula,other
+bk,other
+van/,truck/bus
+ram,other
+mark,motorcycle
+tir,other
+traffic to,car/suv
+com trans,motorcycle
+post,other
+mechanical,Other
+mobil,motorcycle
+trc m,other
+ps,other
+gmc delive,truck/bus
+horse,other
+f150xl pic,truck/bus
+push scoot,escooter
+const,other
+sfi,other
+moped clas,motorcycle
+fdny chief,other
+case,other
+fdny truck,truck/bus
+ambulanve,other
+range,"ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other."
+wheel,other
+e tow,ebike
+chassis &,car/suv
+fd ny,other
+tract,other
+tcn,other
+gator,other
+lmb,other
+x amb,other
+fed e,ebike
+dirtb,other
+2000,other
+trailer/fl,trailer/fl - other
+197209,other
+999,other
+livestock rack,other
+dot r,other
+nissa,other
+uhaul van,truck/bus
+left scene,other
+grumman ll,other
+revel mope,other
+metal,other
+g1`,ebike
+uhaulwtowd,other
+3door,other
+tanker,truck/bus
+appor,other
+mac t,motorcycle
+lcomm,other
+pet,other
+usps #7530,other
+feig,other
+unk box tr,other
+c3,other
+tl,other
+emergency,other
+kick scoot,escooter
+boxtruck,truck/bus
+7532433,other
+petit cab,other
+feder,other
+van`,motorcycle
+ref g,other
+e wheelcha,Other
+13,other
+flatbed tr,truck/bus
+db,other
+red m,motorcycle
+e450,ebike
+elecr,other
+segway,ebike
+horse carr,other
+f550 esu r,escooter
+11 pa,other
+emergancy,other
+blue chevy,car/suv
+kubot,other
+fdny engin,other
+fdny #226,other
+tandu,other
+trc,other
+schoolbus,truck/bus
+govt.,other
+usps 88716,other
+savana van,other
+fre,other
+limit use,ATV
+e-bike,ebike
+pu,other
+santi,other
+dlvr,other
+hosre,motorcycle
+skate,other
+mopad,other
+refrigerated van,truck/bus
+utility ca,Other
+nice bus,truck/bus
+vav,other
+ems ambula,other
+3 wheel sc,escooter
+com.,other
+pick up tr,truck/bus
+doosk,other
+subn tn,other
+food vende,other
+tow trick,other
+in line sk,other
+u-hal,other
+uhaul truc,truck/bus
+refri,other
+e1,ebike
+fork,other
+nyc fire t,other
+hertz ram,other
+food trail,other
+uhaul trai,truck/bus
+fd ladder,other
+ladder 34,ebike
+marked rmp,other
+cement mix,other
+subar,other
+12' o,other
+dot t,other
+yellow bus,truck/bus
+dark color,other
+charter bu,other
+dsny truck,truck/bus
+livery omn,other
+cb534,ebike
+command po,other
+trt,other
+cat 9,other
+new y,other
+mack truck,truck/bus
+wh ford co,car/suv
+motor home,motorcycle
+nyu s,other
+tilt tande,other
+g spc,other
+pas 5,ebike
+f-250,truck/bus
+police rep,other
+movie,other
+fd apparat,Other
+fedex truc,truck/bus
+tan p,other
+4sedn,other
+325flcr,other
+jeep,car/suv
+enterprise,other
+i-haul,other
+horse trai,other
+mail carri,other
+frh,other
+usps#,other
+camp,other
+scho,other
+vas,motorcycle
+gmc,car/suv
+light towe,other
+rep,motorcycle
+swt,other
+brown,other
+delvr,motorcycle
+potal,other
+fortl,other
+ems fdny b,other
+vanette,car/suv
+trk,ebike
+tower,other
+subn - amb,Other
+ut,other
+ups m,other
+tractor truck gasoline,truck/bus
+tow4,other
+omr,other
+ambulamce,other
+e-scooter,escooter
+gspc,other
+van wh,truck/bus
+ride on sc,ebike
+school  bu,other
+mack,other
+garbage tr,other
+block,Please provide the word block you would like me to categorize.
+booml,other
+genie,other
+usps2,other
+rubbe,other
+token,Please provide the word token you would like me to categorize.
+forklift t,other
+unattached,other
+off r,other
+red vehicl,Other
+rmp,other
+self,Other
+fdny rig,other
+motorbike,motorcycle
+unnko,other
+loade,other
+ems b,ebike
+stake or rack,other
+psh,other
+boom crane,other
+12 pa,other
+unkwown,other
+suv,car/suv
